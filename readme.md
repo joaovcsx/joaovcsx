@@ -10,9 +10,9 @@
   <img src="./elastic-logo.svg" height="30" width="50" alt="ElasticSearch"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" width="50" alt="Docker"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="50" alt="Slack"  />
+  <!-- <img src="https" height="30" width="50" alt="docker logo"  />
   <img src="https" height="30" width="50" alt="docker logo"  />
   <img src="https" height="30" width="50" alt="docker logo"  />
-  <img src="https" height="30" width="50" alt="docker logo"  />
-  <img src="https" height="30" width="50" alt="docker logo"  />
+  <img src="https" height="30" width="50" alt="docker logo"  /> -->
 
 </div>
